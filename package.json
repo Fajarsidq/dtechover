@@ -1,0 +1,14 @@
+{
+  "name": "dtechover",
+  "version": "1.0.0",
+  "description": "cypress test demo",
+  "main": "first.cy.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "fajar sidiq",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
